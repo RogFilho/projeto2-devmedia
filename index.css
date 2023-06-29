@@ -42,18 +42,9 @@ p {
 span{
     font-weight: bold;
 }
-#sec2 {
+#sec2, #sec3, #sec4{
     border-top: 1px solid #d5d5d5;
     /* Define uma borda superior na cor cinza */
-    padding: 10px;
-    /* Define um espaçamento interno para a seção */
-}
-#sec3 {
-    border-top: 1px solid #d5d5d5;
-    padding: 10px;
-}
-#sec4 {
-    border-top: 1px solid #d5d5d5;
     padding: 10px;
 }
 
